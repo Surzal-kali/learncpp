@@ -1,0 +1,14 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/surzal/learncpp",
+            "binaryPath": "/home/surzal/learncpp/helloworld",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "/home/surzal/learncpp",
+            "binaryPath": "/home/surzal/learncpp/xor",
+            "binaryArgs": []
+        }
+    ]
+}
