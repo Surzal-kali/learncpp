@@ -1,17 +1,18 @@
-Challenge 1: XOR Cipher
+Challenge 1: XOR Cipher (DONE)
 
 g++ -O2 -o xor_cipher xor_cipher.cpp
 ./xor_cipher
 
-Challenge 2: Hex Dump
-
-g++ -O2 -o hexdump hexdump.cpp
-./hexdump
-
-Challenge 3: Simple Shell
+Challenge 2: Simple Shell // i really wanna learn some mal lets be honest, tis the reason I showed up :D
 
 g++ -O2 -o simple_shell simple_shell.cpp
 ./simple_shell
+
+
+Challenge 3: Hex Dump
+
+g++ -O2 -o hexdump hexdump.cpp
+./hexdump
 
 Challenge 4: Port Scanner
 
