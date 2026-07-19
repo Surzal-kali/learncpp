@@ -14,6 +14,11 @@
             "cwd": "/home/surzal/learncpp",
             "binaryPath": "/home/surzal/learncpp/buff",
             "binaryArgs": []
+        },
+        {
+            "cwd": "/home/surzal/learncpp",
+            "binaryPath": "/home/surzal/learncpp/keypad",
+            "binaryArgs": []
         }
     ]
 }
